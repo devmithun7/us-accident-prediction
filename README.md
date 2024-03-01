@@ -19,8 +19,8 @@ Insights into accident dynamics highlight the potential of data-driven approache
 
 | Contributor | Contributions            | Percentage |
 |-------------|--------------------------|------------|
-| Arnav       | EDA, Data Processing     | 45%        |
-| Dev         | PCA, Feature Engineering, Machine Learning | 55% |
+| Arnav       | EDA, Data Processing     | 50%        |
+| Dev         | PCA, Feature Engineering, Machine Learning | 50% |
 
 
 
