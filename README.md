@@ -15,12 +15,14 @@ The project identifies Logistic Regression (before oversampling) as the most eff
 ## Conclusion
 Insights into accident dynamics highlight the potential of data-driven approaches for improving road safety.
 
+## Tableau
+https://public.tableau.com/app/profile/dev.mithunisvar/viz/USAAccident2017to2023/Sheet3
 ## Contributions
 
 | Contributor | Contributions            | Percentage |
 |-------------|--------------------------|------------|
 | Arnav       | EDA, Data Processing     | 50%        |
-| Dev         | PCA, Feature Engineering, Machine Learning | 50% |
+| Dev         | PCA, Feature Engineering, Machine Learning, Tableau | 50% |
 
 
 
