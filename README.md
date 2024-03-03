@@ -1,7 +1,7 @@
 # USA Road Accidents Severity Prediction
 
-## Overview
-This data science project aims to predict traffic accident severity in the USA using the US Accidents dataset. The project involves extensive data preprocessing, exploratory data analysis (EDA), and machine learning model implementation.
+## Project Overview
+The Accident Severity Classifier project applies machine learning techniques to sort 7 million records into four categories of accident severity. This project encompasses comprehensive feature engineering, hyper-parameter tuning, and meticulous evaluation with metrics such as ROC, accuracy, precision, and recall. Additionally, it integrates advanced data visualization through Tableau, enabling the creation of interactive dashboards that facilitate the extraction of critical insights and Key Performance Indicators (KPIs) essential for informed strategic decision-making. Our objective is to provide a robust tool for enhancing safety measures and supporting data-driven decisions in the realm of accident management and prevention.
 
 ## Key Components
 - **Data Preprocessing**: Involves cleaning, handling missing values, label encoding, and boolean mapping.
